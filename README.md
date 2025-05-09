@@ -8,10 +8,13 @@
 <p align="left"> <a href="https://www.instagram.com/iam_bdr" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdr?logo=twitter&style=for-the-badge" alt="badardaad"</p>
 
 
-- 👀 I’m interested in App development.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Android flutter developer
-- 📫 You can contact me through my E-mail kashanashraf5544@gmail.com
+👀 I’m passionate about app development, with a strong focus on building robust and responsive mobile applications using Flutter.
+
+🌱 I’m currently sharpening my skills in Flutter development, including state management (Provider, GETX) and architecture patterns like MVVM and MVC.
+
+💞️ I’m actively looking to collaborate on Flutter-based Android app projects, contributing clean, scalable, and maintainable code.
+
+📫 You can reach me at kashanashraf5544@gmail.com for networking, collaboration, or project opportunities.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
