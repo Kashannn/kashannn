@@ -27,9 +27,10 @@
 <a href="https://www.instagram.com/badardaad">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-<a href="www.linkedin.com/in/kashan-ashraf-083233233">
+<a href="https://www.linkedin.com/in/badardad">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
+
 <br />
 
 ## Languages and Tools:
