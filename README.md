@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Kashan Ashraf</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashan_ashraf_chajra&label=Profile%20views&color=0e75b6&style=flat" alt="kashan_ashraf_chajra" /> </p>
-
-<p align="left"> <a href="https://www.instagram.com/kashan_ashraf_chajra/" target="blank"><img 
-
-
 👀 I’m passionate about app development, with a strong focus on building robust and responsive mobile applications using Flutter.
 
 🌱 I’m currently sharpening my skills in Flutter development, including state management (Provider, GETX) and architecture patterns like MVVM and MVC.
