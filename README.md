@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kashan Ashraf</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashanAshraf&label=Profile%20views&color=0e75b6&style=flat" alt="badardaad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashan_ashraf_chajra&label=Profile%20views&color=0e75b6&style=flat" alt="kashan_ashraf_chajra" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/iam_bdr" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdr?logo=twitter&style=for-the-badge" alt="badardaad"</p>
+<p align="left"> <a href="https://www.instagram.com/kashan_ashraf_chajra/" target="blank"><img 
 
 
 👀 I’m passionate about app development, with a strong focus on building robust and responsive mobile applications using Flutter.
